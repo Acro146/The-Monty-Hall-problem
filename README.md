@@ -30,4 +30,4 @@
 - Stay and win: 66.69%
 - Switch and win: 33.31%
 ---
-![output](https://github.com/Acro146/The-Monty-Hall-problem/assets/60201913/52f3fe55-8d4c-48bd-a058-35cdc7f32238)
+![plt](https://github.com/Acro146/The-Monty-Hall-problem/assets/60201913/b3d1542e-d2a8-465a-81d9-384c5fa67281)
